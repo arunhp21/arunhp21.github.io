@@ -190,3 +190,7 @@
   a:hover, a:focus, a:active {
     color: #824027;
   }
+
+div > a > img {
+    max-height: 162px;
+}
