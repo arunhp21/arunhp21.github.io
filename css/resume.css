@@ -194,3 +194,9 @@
 div > a > img {
     max-height: 162px;
 }
+
+.img-phone {
+  margin-left: auto!important;
+  width: 60px;
+  margin: 10px;
+}
